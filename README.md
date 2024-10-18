@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me via this https://github.com/Cherubismark
 
+
 ## Technologies & Tools
 
 ### Backend Technologies
@@ -18,6 +19,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="100" height="30" alt="JavaScript"/>
 
 ### Development Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" width="100" height="30" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="100" height="30" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" width="100" height="30" alt="VSCode"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" width="100" height="30" alt="PyCharm"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" width="100" height="30" alt="Postman"/>
