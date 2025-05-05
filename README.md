@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @Cherubismark
-- 👀 I’m interested in java quizes
-- 🌱 I’m currently learning integration of APIs with Springboot
-- 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me via this https://github.com/Cherubismark
+# 👋 Hi, I'm Bismark Cheruiyot Koskei
+
+I'm a backend-focused software developer passionate about building robust, scalable systems that solve real-world problems. I thrive on developing complex backend applications using **Java** and **Spring Boot**, and I’m constantly exploring how clean architecture, efficient APIs, and well-structured databases can elevate modern software solutions.
+
+During my time as the **Operations Lead at Google Developer Student Clubs (GDSC)**, I helped organize tech workshops and events that empowered students to grow both technically and professionally. I'm driven by the belief that **tech communities create strong developers**, and I'm proud to contribute to that mission.
+
+Some technologies and tools I enjoy working with include:
+- Spring Boot & Java
+- SQL & RESTful APIs
+- Git, GitHub, and CI/CD tools
+- HTML/CSS for basic frontend integration
+- Networking concepts & satellite comms (thanks to hands-on field experience)
+
+In addition to building software, I’m committed to **open source contribution**, **mentoring junior developers**, and continuously learning about systems design, DevOps, and cloud technologies.
+
+🛠️ Check out some of my projects [here](https://github.com/cherubismark?tab=repositories) — from backend systems to hands-on programming demos.
+
+📫 You can reach me at **bismark.ckoskei@gmail.com**, or connect with me on [LinkedIn](https://linkedin.com/in/bismark-cheruiyot)  
+🌐 Personal site: [cherubismark.github.io](https://cherubismark.github.io)
+
+---
+
+> "Great software comes from great collaboration — let's build something meaningful."
+
+How to reach me via this https://github.com/Cherubismark
 
 
 ## Technologies & Tools
