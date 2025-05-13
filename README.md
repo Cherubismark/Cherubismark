@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bismark Cheruiyot Koskei
 
-![Bismark's GitHub Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+Bismark+Cheruiyot+Koskei's+GitHub+Profile)
+![Bismark's GitHub Banner](https://imgur.com/a/ycYGfTe)
 
 I'm a backend-focused software developer passionate about building robust, scalable systems that solve real-world problems. I thrive on developing complex backend applications using **Java** and **Spring Boot**, and I’m constantly exploring how clean architecture, efficient APIs, and well-structured databases can elevate modern software solutions.
 
@@ -9,7 +9,7 @@ During my time as the **Operations Lead at Google Developer Student Clubs (GDSC)
 Some technologies and tools I enjoy working with include:
 - Spring Boot & Java
 - SQL & RESTful APIs
-- Git, GitHub, and CI/CD tools
+- Git and GitHub tools
 - HTML/CSS for basic frontend integration
 - Networking concepts & satellite comms (thanks to hands-on field experience)
 
