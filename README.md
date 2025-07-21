@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=hello,+world!;I+Love+Github!&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+World!;Java+%7C+Spring+Boot+Developer;Node.js+%7C+MySQL+%7C+Docker+Lover;Open+Source+Contributor+%7C+Tech+Mentor&center=true&width=500&height=50">
   </a>
 </p>
 
@@ -23,24 +23,23 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23E34A86.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/REST%20API-%2300A86B.svg?style=for-the-badge&logo=api&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 </p>
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> GitHub Stats
 
-<br/>
-<p align="left">
+<p align="center">
   <a href="https://cherubismark.github.io/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=cherubismark&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=cherubismark&theme=radical&hide_border=true">		  
   </a>
 </p>
-<br>
 
 <p align="center">
   <a href="https://cherubismark.github.io/">
@@ -48,21 +47,26 @@
   </a>
 </p>
 
-## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> About Me
 
-I'm a backend-focused software developer passionate about building robust, scalable systems that solve real-world problems. I thrive on developing complex backend applications using **Java** and **Spring Boot**, and I’m constantly exploring how clean architecture, efficient APIs, and well-structured databases can elevate modern software solutions.
+I'm a backend-focused software developer passionate about building robust, scalable, and clean backend systems. I specialize in **Java + Spring Boot** and also work with **Node.js/Express**, **MySQL**, and **RESTful APIs** to bring ideas to life.
 
-During my time as the **Operations Lead at Google Developer Student Clubs (GDSC)**, I helped organize tech workshops and events that empowered students to grow both technically and professionally. I'm driven by the belief that **tech communities create strong developers**, and I'm proud to contribute to that mission.
+💡 I enjoy learning through real-world projects, internships, and contributing to open source. Recently, I’ve also explored **Docker**, **Postman for API testing**, and the basics of **unit testing** in Java and Node.
 
-Some technologies and tools I enjoy working with include:
-- Spring Boot & Java
-- SQL & RESTful APIs
-- Git and GitHub tools
-- HTML/CSS for basic frontend integration
-- Networking concepts & satellite comms (thanks to hands-on field experience)
+### 🔧 Technical Interests:
+- Java, Spring Boot, Node.js, Express
+- MySQL & SQL query optimization
+- RESTful API design & testing
+- Docker & containerized environments
+- Git, GitHub, Postman, and API documentation
+- Basic frontend skills: HTML, CSS, JavaScript
+- Networking & tech support fundamentals (field experience)
 
-In addition to building software, I’m committed to **open source contribution**, **mentoring junior developers**, and continuously learning about systems design, DevOps, and cloud technologies.
+### 🌱 Career Highlights:
+- Former **Operations Lead at GDSC NTTI**, supporting events and mentorship
+- Contributor to **AI platforms** and **STEM projects**
+- Passionate about developer communities, mentorship, and continuous learning
 
+---
 
-
-
+_“Code it clean. Test it smart. Ship it proud.”_
