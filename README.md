@@ -23,6 +23,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23E34A86.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -63,6 +64,9 @@ I'm a backend-focused software developer passionate about building robust, scala
 - Networking & tech support fundamentals (field experience)
 
 ### 🌱 Career Highlights:
+### ☁️ AWS Training
+I completed the AWS re/Start bootcamp focused on cloud foundations. I worked with EC2, Lambda, S3, IAM, VPC, CloudWatch, and CLI basics. I gained hands-on skills in deployment, storage setup, and simple automation. This training strengthened my backend profile and my goal to build reliable services on cloud platforms.
+
 - Former **Operations Lead at GDSC NTTI**, supporting events and mentorship
 - Contributor to **AI platforms** and **STEM projects**
 - Passionate about developer communities, mentorship, and continuous learning
